@@ -15,7 +15,3 @@ Randomization: Utilizing 'random.Choice' to pick a new word every game.
 Control Flow: Keeping the game alive using `while` loops and checking win/loss states with `if-else` blocks.
 Data Structures: Managing lists and sets to track guessed characters and unique word letters.
 
-How to Run the Game
-Make sure you have Python 3 installed on your computer. You can check by running this command in your terminal:
-```bash
-python --version
